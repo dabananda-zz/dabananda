@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Dabananda Mitra
-#### I am a Web Developer
+![Profile views](https://gpvc.arturio.dev/dabananda)  
+## Hi there 👋, my name is Dabananda Mitra
+### I am a Web Developer
 ![I am a Web Developer](https://res.cloudinary.com/djz3p8sux/image/upload/v1630249937/image/dabananda-mitra-github-cover-image_lgsxr7.png)
 
 Currently, I am a Computer Science and Engineering (CSE) student at the Institute of Science Trade & Technology at Mirpur 13, Dhaka, Bangladesh. I am professional at creating web pages specifically I am a front-end developer. I love to create new websites. I know HTML, CSS, JavaScript, jQuery, Bootstrap, and SASS. I am trying to get a deeper knowledge of JavaScript. In the future, I will learn ReactJs after JavaScript. My goal is to be a full-stack developer.
@@ -31,8 +32,6 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 ![GitHub metrics](https://metrics.lecoq.io/dabananda)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda)   
-
-![Profile views](https://gpvc.arturio.dev/dabananda)  
 
 # Dev.to posts
 <!-- BLOG-POST-LIST:START -->
