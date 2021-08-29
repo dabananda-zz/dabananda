@@ -29,6 +29,6 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 ![Profile views](https://gpvc.arturio.dev/dabananda)  
 
-# Blog posts
+# Dev.to posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
