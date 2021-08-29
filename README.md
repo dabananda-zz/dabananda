@@ -19,9 +19,7 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&count_private=true)  
-
-[![Dabananda Mitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight)](https://github.com/dabananda/github-readme-stats)
+[![Dabananda Mitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/dabananda/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda)  
 
