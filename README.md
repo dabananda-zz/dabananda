@@ -28,3 +28,7 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dabananda)  
 
 ![Profile views](https://gpvc.arturio.dev/dabananda)  
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
