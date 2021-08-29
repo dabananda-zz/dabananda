@@ -32,3 +32,5 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+[![Dabananda Mitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda)](https://github.com/dabananda/github-readme-stats)
