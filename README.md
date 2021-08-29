@@ -31,36 +31,29 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 <!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  -->
 
 <br/>
-<br/>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dabananda)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabananda)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-<br/>
 
 [![Dabananda Mitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/dabananda/github-readme-stats) 
 
-<br/>
 <br/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dabananda)
 
 <br/>
-<br/>
 
 ![GitHub metrics](https://metrics.lecoq.io/dabananda)  
 
 <br/>
-<br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda)   
 
-<br/>
 <br/>
 
 # Dev.to posts
