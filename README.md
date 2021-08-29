@@ -4,7 +4,7 @@
 
 Currently, I am a Computer Science and Engineering (CSE) student at the Institute of Science Trade & Technology at Mirpur 13, Dhaka, Bangladesh. I am professional at creating web pages specifically I am a front-end developer. I love to create new websites. I know HTML, CSS, JavaScript, jQuery, Bootstrap, and SASS. I am trying to get a deeper knowledge of JavaScript. In the future, I will learn ReactJs after JavaScript. My goal is to be a full-stack developer.
 
-Skills: HTML / CSS / Bootstrap / SASS / JavaScript / REACT
+**Skills: HTML / CSS / Bootstrap / SASS / JavaScript / REACT**
 
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on front-end projects to develop my front-end skill 
