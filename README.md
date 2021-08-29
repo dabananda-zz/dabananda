@@ -21,6 +21,8 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&count_private=true)  
 
+[![Dabananda Mitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight)](https://github.com/dabananda/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dabananda)  
 
 ![GitHub metrics](https://metrics.lecoq.io/dabananda)  
@@ -32,5 +34,3 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-[![Dabananda Mitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dabananda&show_icons=true&theme=tokyonight)](https://github.com/dabananda/github-readme-stats)
