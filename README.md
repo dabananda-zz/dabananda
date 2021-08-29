@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/dabananda)  
-## Hi there 👋, my name is Dabananda Mitra
+## Hi there 👋, my name is Dabananda Mitra. You can call me Debu.
 ### I am a Web Developer
 ![I am a Web Developer](https://res.cloudinary.com/djz3p8sux/image/upload/v1630249937/image/dabananda-mitra-github-cover-image_lgsxr7.png)
 
