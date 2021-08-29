@@ -26,8 +26,6 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 <!-- <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  -->
 
-<br/>
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dabananda)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <br/>
