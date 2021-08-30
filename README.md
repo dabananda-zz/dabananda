@@ -63,7 +63,7 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 <p align="left"> <a href="https://twitter.com/dabanandamitra" target="blank"><img src="https://img.shields.io/twitter/follow/dabanandamitra?logo=twitter&style=for-the-badge" alt="dabanandamitra" /></a> </p>
 
-# Dev.to posts
+# My posts
 <!-- BLOG-POST-LIST:START -->
 - [Starbucks Coffee Company Clone](https://dev.to/dabanandamitra/starbucks-coffee-company-clone-3ldk)
 <!-- BLOG-POST-LIST:END -->
