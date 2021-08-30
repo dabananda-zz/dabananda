@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/dabananda)  
+<!-- ![Profile views](https://gpvc.arturio.dev/dabananda)  
 
 ## Hi there 👋, my name is Dabananda Mitra. You can call me Debu.
 ### I am a Front-End Web Developer
@@ -54,3 +54,4 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 <!-- BLOG-POST-LIST:START -->
 - [Starbucks Coffee Company Clone](https://dev.to/dabanandamitra/starbucks-coffee-company-clone-3ldk)
 <!-- BLOG-POST-LIST:END -->
+ -->
