@@ -65,5 +65,5 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # My posts
 <!-- BLOG-POST-LIST:START -->
-- [Starbucks Coffee Company Clone](https://dev.to/dabanandamitra/starbucks-coffee-company-clone-3ldk)
+- [Starbucks Coffee Company Clone](https://medium.com/@dabanandamitra/starbucks-coffee-company-clone-1dea67ffe9ed?source=rss-97b814d9e1d2------2)
 <!-- BLOG-POST-LIST:END -->
