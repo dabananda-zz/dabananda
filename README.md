@@ -71,4 +71,9 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Host Website on GitHub for FREE | Host your Website or Webpage on GitHub very Easily](https://www.youtube.com/watch?v=icDOPJRfU50)
+- [How to Download and Install Filmora for FREE | Activate Filmora for Lifetime and remove watermark](https://www.youtube.com/watch?v=NPXQhpfzdZA)
+- [How to Create Unlimited Gmail Account Without Phone Number | How to Create Unlimited Google Account](https://www.youtube.com/watch?v=2alwUhMy4hI)
+- [How to upload files in CrazyHD very easily without any Error](https://www.youtube.com/watch?v=kwUcGVNtgu0)
+- [How to get Elementor Pro for FREE | Install Elementor Pro 100% Free](https://www.youtube.com/watch?v=U7T7AmGtOfA)
 <!-- YOUTUBE:END -->
