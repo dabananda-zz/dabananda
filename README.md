@@ -71,9 +71,9 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Delete a GIG on Fiverr | Delete Fiverr GIGs very easily](https://www.youtube.com/watch?v=0FgvYvrj5E4)
 - [How to Delete GitHub Repository | Permanently delete repository in github very easily](https://www.youtube.com/watch?v=vffOkMxn6D0)
 - [How to Push Local Git Repository to GitHub | Push Local Repository to GitHub with Git Command](https://www.youtube.com/watch?v=lcHZNfLilg4)
 - [How to Host Website on GitHub for FREE | Host your Website or Webpage on GitHub very Easily](https://www.youtube.com/watch?v=icDOPJRfU50)
 - [How to Download and Install Filmora for FREE | Activate Filmora for Lifetime and remove watermark](https://www.youtube.com/watch?v=NPXQhpfzdZA)
-- [How to Create Unlimited Gmail Account Without Phone Number | How to Create Unlimited Google Account](https://www.youtube.com/watch?v=2alwUhMy4hI)
 <!-- YOUTUBE:END -->
