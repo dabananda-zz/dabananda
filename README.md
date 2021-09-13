@@ -65,6 +65,7 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Password Generator](https://dev.to/dabanandamitra/random-password-generator-2hlk)
 - [Starbucks Coffee Company Clone](https://medium.com/@dabanandamitra/starbucks-coffee-company-clone-1dea67ffe9ed?source=rss-97b814d9e1d2------2)
 - [Starbucks Coffee Company Clone](https://dev.to/dabanandamitra/starbucks-coffee-company-clone-3ldk)
 <!-- BLOG-POST-LIST:END -->
