@@ -72,9 +72,9 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to download Adobe illustrator for FREE | Download and Install Adobe Illustrator easily for FREE](https://www.youtube.com/watch?v=jtpGNn14RsM)
 - [How to find UVa Easy Problems for Beginners | UVa Top 100 Easy Problems for Beginners](https://www.youtube.com/watch?v=Of4_v5VlHfY)
 - [How to get Canva PRO account for FREE  Lifetime | Get Canva Education account for FREE](https://www.youtube.com/watch?v=Op7_IOsGp8w)
 - [How to download Photoshop for FREE | Download and Install Photoshop CS6 for FREE very easily](https://www.youtube.com/watch?v=PveQgECo8Ww)
 - [How to change fiverr gig video thumbnail | Change or update the thumbnail of fiverr gig video easily](https://www.youtube.com/watch?v=GzVMOYFAIOQ)
-- [How to Delete a GIG on Fiverr | Delete Fiverr GIGs very easily](https://www.youtube.com/watch?v=0FgvYvrj5E4)
 <!-- YOUTUBE:END -->
