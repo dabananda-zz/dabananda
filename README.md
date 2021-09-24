@@ -72,9 +72,9 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Earnings at risk - You need to fix some ads.txt file issues to avoid severe impact to your revenue](https://www.youtube.com/watch?v=t-LyGn4Z0Ao)
 - [AdSense doesn't know about your blog | How to fix adsense doesn't know about your blog solution](https://www.youtube.com/watch?v=GnXV-O6E_lM)
 - [How to download Adobe illustrator for FREE | Download and Install Adobe Illustrator easily for FREE](https://www.youtube.com/watch?v=jtpGNn14RsM)
 - [How to find UVa Easy Problems for Beginners | UVa Top 100 Easy Problems for Beginners](https://www.youtube.com/watch?v=Of4_v5VlHfY)
 - [How to get Canva PRO account for FREE  Lifetime | Get Canva Education account for FREE](https://www.youtube.com/watch?v=Op7_IOsGp8w)
-- [How to download Photoshop for FREE | Download and Install Photoshop CS6 for FREE very easily](https://www.youtube.com/watch?v=PveQgECo8Ww)
 <!-- YOUTUBE:END -->
