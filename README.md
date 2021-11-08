@@ -75,6 +75,6 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 - [Watermelon Codeforces Solution in C++ CPP | Codeforces 1A Watermelon Solution in C C++ CPP](https://www.youtube.com/watch?v=tK2wvQmbDKk)
 - [How to change username of administrator user profile of windows 10 | Change user profile username](https://www.youtube.com/watch?v=23AA7xyLXxk)
 - [Earnings at risk - You need to fix some ads.txt file issues to avoid severe impact to your revenue](https://www.youtube.com/watch?v=t-LyGn4Z0Ao)
-- [AdSense doesn't know about your blog | How to fix adsense doesn't know about your blog solution](https://www.youtube.com/watch?v=GnXV-O6E_lM)
+- [AdSense doesn&#39;t know about your blog | How to fix adsense doesn&#39;t know about your blog solution](https://www.youtube.com/watch?v=GnXV-O6E_lM)
 - [How to download Adobe illustrator for FREE | Download and Install Adobe Illustrator easily for FREE](https://www.youtube.com/watch?v=jtpGNn14RsM)
 <!-- YOUTUBE:END -->
