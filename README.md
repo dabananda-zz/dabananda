@@ -72,9 +72,9 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to activate Filomra  FREE for lifetime with genuine license | Get Filmora for FREE](https://www.youtube.com/watch?v=CaHPtwkf9ZA)
 - [How to change the context menu position from left to right in Windows](https://www.youtube.com/watch?v=ftgZJIvv32c)
 - [Watermelon Codeforces Solution in C++ CPP | Codeforces 1A Watermelon Solution in C C++ CPP](https://www.youtube.com/watch?v=tK2wvQmbDKk)
 - [How to change username of administrator user profile of windows 10 | Change user profile username](https://www.youtube.com/watch?v=23AA7xyLXxk)
 - [Earnings at risk - You need to fix some ads.txt file issues to avoid severe impact to your revenue](https://www.youtube.com/watch?v=t-LyGn4Z0Ao)
-- [AdSense doesn&#39;t know about your blog | How to fix adsense doesn&#39;t know about your blog solution](https://www.youtube.com/watch?v=GnXV-O6E_lM)
 <!-- YOUTUBE:END -->
