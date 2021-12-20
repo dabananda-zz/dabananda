@@ -72,9 +72,9 @@ Currently, I am a Computer Science and Engineering (CSE) student at the Institut
 
 # Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to use FontAwesome icons on React project || Font Awesome icon on React JS project](https://www.youtube.com/watch?v=SDN6rLG4pI4)
 - [How to check Real IP or Shared IP || Check internet port number very easily](https://www.youtube.com/watch?v=GxR8SbXX1HE)
 - [How to activate Filomra  FREE for lifetime with genuine license | Get Filmora for FREE](https://www.youtube.com/watch?v=CaHPtwkf9ZA)
 - [How to change the context menu position from left to right in Windows](https://www.youtube.com/watch?v=ftgZJIvv32c)
 - [Watermelon Codeforces Solution in C++ CPP | Codeforces 1A Watermelon Solution in C C++ CPP](https://www.youtube.com/watch?v=tK2wvQmbDKk)
-- [How to change username of administrator user profile of windows 10 | Change user profile username](https://www.youtube.com/watch?v=23AA7xyLXxk)
 <!-- YOUTUBE:END -->
